@@ -1,0 +1,9 @@
+.center{
+/* display: block; */
+  text-align: center;
+  background: rgb(63,94,251);
+  background: radial-gradient(circle, rgba(63,94,251,1) 4%, rgba(252,70,107,0.9598433123249299) 81%);
+  background-size: cover;
+  background-position: center;
+  height: 100vh;
+}

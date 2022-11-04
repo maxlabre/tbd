@@ -1,0 +1,75 @@
+.banner{
+  background: rgb(63,94,251);
+  background: radial-gradient(circle, rgba(63,94,251,1) 4%, rgba(252,70,107,0.9598433123249299) 81%);
+  background-size: cover;
+  background-position: center;
+  height: 100 vh;
+}
+
+/* .banner h1{
+  color: white;
+}
+
+.banner p{
+  color: white;
+}
+
+.btn-participate{
+  border: 1px solid red;
+  border-radius: 10px;
+  background-color: white;
+  padding: 10px;
+  opacity: 1;
+}
+
+.btn-participate:hover{
+  /* opacity: 0; */
+  color: aquamarine;
+} */
+
+
+
+
+
+
+/* .banner {
+  background-size: cover;
+  background-position: center;
+  padding: 200px 0;
+}
+
+.container{
+  width: 900px;
+  margin: auto;
+}
+
+.banner h1{
+  color: white;
+}
+
+.banner p{
+  color: white;
+}
+
+.btn-coeur{
+  /* display: inline-block;
+  background-color: white;
+  padding: 16px 36px;
+  border-radius: 20px;
+  /* color: black; */
+  display: inline-block;
+  text-align: center;
+  padding: 12px 24px;
+  color: black;
+  border-radius: 5px;
+  background: white;
+  box-shadow: 0 0 0 0 rgba(255, 71, 84, .7);
+  animation: battement 1s infinite cubic-bezier(.66, 0, 0, 1);
+  text-decoration: none;
+  }
+
+  @keyframes battement {
+    to {
+      box-shadow: 0 0 0 30px rgba(255, 71, 84, 0);
+    }
+  } */ */ */
